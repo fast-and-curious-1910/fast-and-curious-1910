@@ -20,7 +20,7 @@
       backEnd: ['Python','nodejs','express'],
       dataBases : ["MongoDB" , "Postgresql"],
   },
-  workingOn: ["Utoob | The next gen YouTube","Blueit | Clone of (red)dit"] # Both are being worked on , not published to GitHub,
+  workingOn: ["Utoob | The next gen YouTube","Blueit | Clone of (red)dit"] , # Both are being worked on , not published to GitHub,
   learning: ['Angluar','MERN Stack','And many smol things']
 }
 ```
