@@ -26,4 +26,6 @@
 ```
 
 [![Palash's github stats](https://github-readme-stats.vercel.app/api?username=fast-and-curious-1910&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fast-and-curious-1910&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
