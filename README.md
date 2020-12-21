@@ -25,4 +25,4 @@
 }
 ```
 
-[![Palash's github stats](https://github-readme-stats.vercel.app/api?username=fast-and-curious-1910)](https://github.com/anuraghazra/github-readme-stats)
+[![Palash's github stats](https://github-readme-stats.vercel.app/api?username=fast-and-curious-1910?&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
