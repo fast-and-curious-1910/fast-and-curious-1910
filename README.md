@@ -23,6 +23,6 @@
   workingOn: ["Utoob | The next gen YouTube","Blueit | Clone of (red)dit"] # Both are being worked on , not published to GitHub,
   learning: ['Angluar','MERN Stack','And many smol things']
 }
-
+```
 
 [![Palash's github stats](https://github-readme-stats.vercel.app/api?username=fast-and-curious-1910)](https://github.com/anuraghazra/github-readme-stats)
