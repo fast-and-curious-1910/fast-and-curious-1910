@@ -1,16 +1,28 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**fast-and-curious-1910/fast-and-curious-1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi! I am Palash Sureka
+## A student in India 👨‍💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```python
+  Palash = {
+  pronouns: "He | Him",
+  askMeAbout : ['web dev', 'tech', "little backend"],
+  technologies: {
+      frontEnd: {
+        js: ['React', 'others are being learnt'],
+        css: ['Bootstrap']
+      },
+      backEnd: ['Python','nodejs','express'],
+      dataBases : ["MongoDB" , "Postgresql"],
+  },
+  workingOn: ["Utoob | The next gen YouTube","Blueit | Clone of (red)dit"] # Both are being worked on , not published to GitHub,
+  learning: ['Angluar','MERN Stack','And many smol things']
+}
+
+
+[![Palash's github stats](https://github-readme-stats.vercel.app/api?username=fast-and-curious-1910)](https://github.com/anuraghazra/github-readme-stats)
