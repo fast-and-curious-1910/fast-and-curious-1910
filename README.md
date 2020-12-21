@@ -24,6 +24,7 @@
   learning: ['Angluar','MERN Stack','And many smol things']
 }
 ```
+<br>
 
 [![Palash's github stats](https://github-readme-stats.vercel.app/api?username=fast-and-curious-1910&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
