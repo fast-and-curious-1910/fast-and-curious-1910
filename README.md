@@ -21,6 +21,7 @@
       dataBases : ["MongoDB" , "Postgresql"],
   },
   workingOn: ["Utoob | The next gen YouTube","Blueit | Clone of (red)dit"] , # Both are being worked on , not published to GitHub,
+  codeJamming : True
   learning: ['Angluar','MERN Stack','And many smol things']
 }
 ```
