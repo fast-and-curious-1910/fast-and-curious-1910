@@ -8,12 +8,20 @@
 
 ### Frameworks
 ![](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
-![]("https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Contact Me On
-<img src="https://img.shields.io/badge/discord%20-%23007ACC.svg?&style=for-the-badge&logo=discord"/>
+<img src="https://img.shields.io/badge/discord%20-%23007ACC.svg?&style=for-the-badge&logo=discord"/> 
+TooFastForYou#9742
+
+### Database
+![](https://img.shields.io/badge/mongodb%20-%23007ACC.svg?&style=for-the-badge&logo=mongodb&color=green)
+
+### Things I am learning
+![](https://img.shields.io/badge/angular%20-%23007ACC.svg?&style=for-the-badge&logo=angular&color=red)
+![](https://img.shields.io/badge/next.js%20-%23007ACC.svg?&style=for-the-badge&logo=next.js&color=black)
+![](https://img.shields.io/badge/visual%20studio%20code%20-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code)
+
 
 ### Stats
 ![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=fast-and-curious-1910&show_icons=true&theme=dracula)
