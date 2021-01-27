@@ -26,12 +26,13 @@ TooFastForYou#9742
 
 
 ### Ongoing Projects
-Utoob - A very simple youtube clone
+Utoob - A very simple youtube clone.
+
 CodePasteBin - A snippet sharing platform.
 
 
 ### Stats
 ![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=fast-and-curious-1910&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 
