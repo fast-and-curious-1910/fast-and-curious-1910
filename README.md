@@ -20,10 +20,16 @@ TooFastForYou#9742
 ### Things I am learning
 ![](https://img.shields.io/badge/angular%20-%23007ACC.svg?&style=for-the-badge&logo=angular&color=red)
 ![](https://img.shields.io/badge/next.js%20-%23007ACC.svg?&style=for-the-badge&logo=next.js&color=black)
-![](https://img.shields.io/badge/visual%20studio%20code%20-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code)
+![](https://img.shields.io/badge/visual%20studio%20code%20-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code) Extensions
+
+
+### Ongoing Projects
+Utoob - A very simple youtube clone
+CodePasteBin - A snippet sharing platform.
 
 
 ### Stats
 ![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=fast-and-curious-1910&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
