@@ -1,6 +1,7 @@
 
 ## Hi! I am Palash Sureka
-## A student in India 👨‍💻
+
+Palash is a programmer in India, who loves technology. Palash has experience in Python Backend (Django, Flask), and JavaScript/TypeScript backend (Express.JS) and frontend (React, Vue, Bootstrap). Palash loves to explore the infinite possibilties with coding. 
 
 ### Languages
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23007ACC.svg?&style=for-the-badge&logo=javascript&color=yellow"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -30,9 +31,8 @@ Utoob - A very simple youtube clone.
 
 CodePasteBin - A snippet sharing platform.
 
-
 ### Stats
 ![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=fast-and-curious-1910&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
