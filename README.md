@@ -1,7 +1,9 @@
 
 ## Hi! I am Palash Sureka
 
-Palash is a programmer in India, who loves technology. Palash has experience in Python Backend (Django, Flask), and JavaScript/TypeScript backend (Express.JS) and frontend (React, Vue, Bootstrap). Palash loves to explore the infinite possibilties with coding. 
+Palash is a programmer in India, who loves technology. Palash has experience in Python Backend (Django, Flask), and JavaScript/TypeScript backend (Express.JS) and frontend (React). Palash loves to explore the infinite possibilties with coding. 
+
+##### Sidenote: I mostly work with TypeScript and JavaScript now. I do not work with Python for my projects for now. 
 
 ### Languages
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23007ACC.svg?&style=for-the-badge&logo=javascript&color=yellow"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
