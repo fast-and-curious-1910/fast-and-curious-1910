@@ -35,4 +35,4 @@ CodePasteBin - A snippet sharing platform.
 ![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=fast-and-curious-1910&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fast-and-curious-1910&layout=compact&theme=dracula)
